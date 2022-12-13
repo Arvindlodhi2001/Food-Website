@@ -1,0 +1,59 @@
+
+*
+{
+	margin:0;
+	padding:0;
+	
+}
+body
+{
+
+}
+
+.nav ul 
+{
+	list-style:none;
+	
+}
+
+.nav ul li
+{
+	background-color:red;
+	border:2px solid white;
+	width:299.5px;
+	height:40px;
+	text-align:center;
+	line-height:40px;
+    float:left;
+	position:relative;
+	
+}
+.nav ul li a
+{
+	text-decoration:none;
+	color:white;
+	display:block;
+	cursor:pointer;
+	
+}
+
+.nav ul li  :hover
+{
+	background-color:black;
+}
+
+.nav ul  ul li
+{
+	
+	display:none;
+	
+}
+
+.nav ul  :hover  li
+{
+display:block;
+z-index:1;
+display: list-item;
+}
+
+

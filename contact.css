@@ -1,0 +1,25 @@
+.Contact_headline
+{
+	text-align:center;
+	font-size:25px;
+	font-weight:bold;
+}
+
+.C_Box
+{
+	border:0px solid black;
+	height:600px;
+	width:95%;
+	margin:auto;
+	margin-top:50px;
+}
+
+.S_Box
+{
+	border:2px solid black;
+	height:560px;
+	width:42%;
+	float:left;
+	margin:15px;
+	margin-left:70px;
+}

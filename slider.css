@@ -1,0 +1,89 @@
+
+body
+{
+	
+}
+.slider_image_box
+{
+	
+	width:1540px;
+	overflow:hidden;
+}
+
+.slider_images 
+{
+	position:relative;
+	border:0px solid black;
+	width:9247px;
+	height:800px;
+	animation-name:slide;
+	animation-duration:28s;
+	animation-iteration-count:infinite;
+	z-index: -1;
+	
+}
+
+.slider_images  img
+{
+	float :left;
+	height:800px;
+	width:1540px;
+	
+	
+	
+}
+
+@keyframes slide
+{
+	0%
+	{
+		left:0px;
+	}
+	14.28%
+	{
+		left: 0px;
+	}
+	17.85%
+	{
+		left:-1540px;
+	}
+     32.13%
+	 {
+		left:-1540px; 
+	 }
+	 35.7%
+	 {
+		 left:-3080px;
+	 }
+	 49.98%
+	 {
+		 left:-3080px;
+	 }
+	 53.55%
+	 {
+		 left:-4620px
+	 }
+	 67.83%
+	 {
+		 left:-4620px;
+		 
+	 }
+	 71.4%
+	 {
+		 left:-6160px;
+	 }
+	 85.48%
+	 {
+		 left:-6160px;
+	 }
+	 89.25%
+	 {
+		left:-7700px; 
+	 }
+	 100%
+	 {
+		 left:-7700px;
+	 }
+	 
+	
+}

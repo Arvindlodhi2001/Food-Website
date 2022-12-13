@@ -1,0 +1,54 @@
+.top_catgree_headline
+{
+	text-align:center;
+}
+.Big_Boxx
+{
+	border:0px solid black;
+	height:400px;
+	width:95%;
+	margin:auto;
+}
+
+.Small_Boxx
+{
+	border:2px solid black;
+	height:350px;
+	width:30%;	
+	float:left;
+	margin:20px;
+	margin-left:23px;
+	cursor:pointer;
+}
+
+.name p
+{
+	margin-left:0%;
+	font-weight:bold;
+	color:black;
+}
+
+.btn a button
+{
+	margin-left:31%;
+	border:2px solid red;
+	border-radius:10px 10px 10px 10px;
+	height:35px;
+	width:150px;
+	font-weight:bold;
+	font-size:17px;
+}
+
+.btn a button:hover
+{
+	background-color:rgb(237, 136, 109);
+}
+
+.Small_Boxx
+{
+	 transition:2s;
+}
+.Small_Boxx:hover
+{
+transform:scale(1. 07);	
+}

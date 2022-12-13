@@ -1,0 +1,17 @@
+
+
+.O_BOX
+{
+	border:2px solid red;
+	height:550px;
+	width:600px;
+	margin:auto;
+	
+}
+
+input , select ,textarea
+{
+width:99%;
+height:70px;	
+font-size:20px;
+}

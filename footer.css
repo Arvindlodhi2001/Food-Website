@@ -1,0 +1,85 @@
+*
+{
+	background-color:;
+}
+.Big_Box
+{
+	border:2px solid black;
+	height:500px;
+	width:99%;
+	background-color:black;
+}
+.small_BoxA , .small_BoxB ,.small_BoxC,.small_BoxD
+{
+	border:0px solid White;
+	height:450px;
+	width:24.70%;
+	float:left;
+	margin-top:25px;
+	
+}
+
+
+.small_BoxA ul li ,h2
+{
+	text-align:center;
+	margin:10px;
+	list-style:none;
+
+}
+.small_BoxA ul li a ,h2
+{
+	
+    text-decoration:none;	
+	font-size:25px;
+	color:white;
+}
+
+
+
+.small_BoxB ul li ,h2
+{
+	text-align:center;
+	margin:10px;
+   list-style:none;
+	
+}
+.small_BoxB ul li a ,h2
+{
+	 text-decoration:none;	
+	font-size:25px;
+	color:white;
+}
+
+.small_BoxC h2 , p
+{
+	color:white;
+	text-align:center;
+}
+.small_BoxC  p
+{
+	font-size:20px;
+}
+
+.small_BoxD h2
+{
+	text-align:center;
+	color :white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
